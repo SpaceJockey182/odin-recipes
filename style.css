@@ -1,0 +1,25 @@
+* {
+    background-color: hsl(34, 44%, 80%);
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    height: 550px;
+    width: auto;
+}
+div,
+h1 {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+.broccoli {
+    color: green;
+}
+.tortilla {
+    color: rgb(255, 255, 0);
+}
+.prime-rib {
+    color: hsl(35, 50%, 50%);
+}
